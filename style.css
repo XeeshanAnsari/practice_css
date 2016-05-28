@@ -1,0 +1,24 @@
+#story{
+    color: cadetblue;
+    font-size: 80px;
+      text-align: center;
+}
+#moral{
+   color: red;
+    font-size: 100;
+      text-align: center;
+}
+#span1{
+    color: wheat;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.para{
+    
+    width: 70%;   
+     margin: 0 auto;
+}
+body{
+    background-color: darkslateblue;
+}
